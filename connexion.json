@@ -1,0 +1,2657 @@
+{
+    "total": 8209,
+    "total_all": 8209,
+    "total_pro": 6045,
+    "total_private": 2164,
+    "total_active": 0,
+    "total_inactive": 0,
+    "total_shippable": 0,
+    "max_pages": 350,
+    "ads": [
+        {
+            "ad_type": "offer",
+            "attributes": [
+                {
+                    "key": "profile_picture_url",
+                    "value": "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/b2f220f2-da77-55ac-956d-608388ce44bb?rule=pp-small",
+                    "values": [
+                        "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/b2f220f2-da77-55ac-956d-608388ce44bb?rule=pp-small"
+                    ],
+                    "value_label": "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/b2f220f2-da77-55ac-956d-608388ce44bb?rule=pp-small",
+                    "generic": false
+                },
+                {
+                    "key": "type_real_estate_sale",
+                    "value": "ancien",
+                    "values": [
+                        "ancien"
+                    ],
+                    "key_label": "Type de vente",
+                    "value_label": "Ancien",
+                    "generic": true
+                },
+                {
+                    "key": "real_estate_type",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Type de bien",
+                    "value_label": "Appartement",
+                    "generic": true
+                },
+                {
+                    "key": "square",
+                    "value": "79",
+                    "values": [
+                        "79"
+                    ],
+                    "key_label": "Surface",
+                    "value_label": "79 m²",
+                    "generic": true
+                },
+                {
+                    "key": "rooms",
+                    "value": "3",
+                    "values": [
+                        "3"
+                    ],
+                    "key_label": "Pièces",
+                    "value_label": "3",
+                    "generic": true
+                },
+                {
+                    "key": "energy_rate",
+                    "value": "e",
+                    "values": [
+                        "e"
+                    ],
+                    "key_label": "Classe énergie",
+                    "value_label": "E",
+                    "generic": true
+                },
+                {
+                    "key": "ges",
+                    "value": "e",
+                    "values": [
+                        "e"
+                    ],
+                    "key_label": "GES",
+                    "value_label": "E",
+                    "generic": true
+                },
+                {
+                    "key": "elevator",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Ascenseur",
+                    "value_label": "Non",
+                    "generic": true
+                },
+                {
+                    "key": "floor_number",
+                    "value": "3",
+                    "values": [
+                        "3"
+                    ],
+                    "key_label": "Étage du bien",
+                    "value_label": "3",
+                    "generic": true
+                },
+                {
+                    "key": "nb_floors_building",
+                    "value": "3",
+                    "values": [
+                        "3"
+                    ],
+                    "key_label": "Nombre d'étages de l'immeuble",
+                    "value_label": "3",
+                    "generic": true
+                },
+                {
+                    "key": "outside_access",
+                    "value": "",
+                    "values": [
+                        "balcony"
+                    ],
+                    "key_label": "Extérieur",
+                    "value_label": "Balcon",
+                    "values_label": [
+                        "Balcon"
+                    ],
+                    "generic": true
+                },
+                {
+                    "key": "district_id",
+                    "value": "103060",
+                    "values": [
+                        "103060"
+                    ],
+                    "value_label": "103060",
+                    "generic": false
+                },
+                {
+                    "key": "district_visibility",
+                    "value": "true",
+                    "values": [
+                        "true"
+                    ],
+                    "value_label": "true",
+                    "generic": false
+                },
+                {
+                    "key": "district_type_id",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "value_label": "1",
+                    "generic": false
+                },
+                {
+                    "key": "district_resolution_type",
+                    "value": "integration",
+                    "values": [
+                        "integration"
+                    ],
+                    "value_label": "integration",
+                    "generic": false
+                },
+                {
+                    "key": "immo_sell_type",
+                    "value": "old",
+                    "values": [
+                        "old"
+                    ],
+                    "value_label": "old",
+                    "generic": false
+                },
+                {
+                    "key": "is_import",
+                    "value": "false",
+                    "values": [
+                        "false"
+                    ],
+                    "value_label": "false",
+                    "generic": false
+                },
+                {
+                    "key": "lease_type",
+                    "value": "sell",
+                    "values": [
+                        "sell"
+                    ],
+                    "value_label": "sell",
+                    "generic": false
+                },
+                {
+                    "key": "old_price",
+                    "value": "149000",
+                    "values": [
+                        "149000"
+                    ],
+                    "value_label": "149000",
+                    "generic": false
+                }
+            ],
+            "body": "Je vends mon appartement T3 de 79 m2 situé à l'angle du boulevard Gambetta et de la rue Magenta à Tourcoing (métro à proximité). \nL'habitat est moderne, lumineux et spacieux avec un balcon exposé sud sur l'avant et une vue arrière sur un beau parc arboré. Il n'y a pas de travaux à prévoir. Les charges de 217 €/mois comprennent les frais de copropriété, l'eau et le chauffage. Au 3° étage sans ascenseur mais avec une cave, cet appartement est attractif par son rapport qualité/prix et peut faire l'objet d'un excellent premier achat.\nA votre disposition pour plus de précisions  ou pour vous le faire visiter.",
+            "category_id": "9",
+            "category_name": "Ventes immobilières",
+            "first_publication_date": "2023-04-10 21:29:30",
+            "has_phone": false,
+            "images": {
+                "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/ce/62/a8/ce62a8a6320b08e781f34edc46aa6687fda9c503.jpg?rule=ad-thumb",
+                "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/ce/62/a8/ce62a8a6320b08e781f34edc46aa6687fda9c503.jpg?rule=ad-small",
+                "nb_images": 3,
+                "urls": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ce/62/a8/ce62a8a6320b08e781f34edc46aa6687fda9c503.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/52/65/65/5265654352b76bc5c36416eb25e8327f3af91060.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/62/08/7b62081754a038ea0c3ef5eddfbc3ce69828e40e.jpg?rule=ad-image"
+                ],
+                "urls_thumb": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ce/62/a8/ce62a8a6320b08e781f34edc46aa6687fda9c503.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/52/65/65/5265654352b76bc5c36416eb25e8327f3af91060.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/62/08/7b62081754a038ea0c3ef5eddfbc3ce69828e40e.jpg?rule=ad-thumb"
+                ],
+                "urls_large": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ce/62/a8/ce62a8a6320b08e781f34edc46aa6687fda9c503.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/52/65/65/5265654352b76bc5c36416eb25e8327f3af91060.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/62/08/7b62081754a038ea0c3ef5eddfbc3ce69828e40e.jpg?rule=ad-large"
+                ]
+            },
+            "index_date": "2023-05-02 22:01:07",
+            "list_id": 2330763497,
+            "location": {
+                "country_id": "FR",
+                "region_id": "17",
+                "region_name": "Nord-Pas-de-Calais",
+                "department_id": "59",
+                "department_name": "Nord",
+                "city_label": "Tourcoing 59200",
+                "city": "Tourcoing",
+                "zipcode": "59200",
+                "lat": 50.72236,
+                "lng": 3.15946,
+                "source": "city",
+                "provider": "here",
+                "is_shape": true,
+                "feature": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.15946,
+                            50.72236
+                        ]
+                    },
+                    "properties": null
+                }
+            },
+            "options": {
+                "has_option": false,
+                "booster": false,
+                "photosup": false,
+                "urgent": false,
+                "gallery": false,
+                "sub_toplist": false
+            },
+            "owner": {
+                "store_id": "5744243",
+                "user_id": "67785702-49e4-4aef-96fc-5b216edce982",
+                "type": "private",
+                "name": "MICHEL",
+                "no_salesmen": true,
+                "activity_sector": ""
+            },
+            "price": [
+                145000
+            ],
+            "price_cents": 14500000,
+            "price_calendar": null,
+            "status": "active",
+            "subject": "Appartement T3",
+            "url": "https://www.leboncoin.fr/ventes_immobilieres/2330763497.htm"
+        },
+        {
+            "ad_type": "offer",
+            "attributes": [
+                {
+                    "key": "activity_sector",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "value_label": "2",
+                    "generic": false
+                },
+                {
+                    "key": "real_estate_type",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Type de bien",
+                    "value_label": "Appartement",
+                    "generic": true
+                },
+                {
+                    "key": "square",
+                    "value": "158",
+                    "values": [
+                        "158"
+                    ],
+                    "key_label": "Surface",
+                    "value_label": "158 m²",
+                    "generic": true
+                },
+                {
+                    "key": "rooms",
+                    "value": "6",
+                    "values": [
+                        "6"
+                    ],
+                    "key_label": "Pièces",
+                    "value_label": "6",
+                    "generic": true
+                },
+                {
+                    "key": "energy_rate",
+                    "value": "d",
+                    "values": [
+                        "d"
+                    ],
+                    "key_label": "Classe énergie",
+                    "value_label": "D",
+                    "generic": true
+                },
+                {
+                    "key": "ges",
+                    "value": "e",
+                    "values": [
+                        "e"
+                    ],
+                    "key_label": "GES",
+                    "value_label": "E",
+                    "generic": true
+                },
+                {
+                    "key": "fai_included",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Honoraires",
+                    "value_label": "Non",
+                    "generic": true
+                },
+                {
+                    "key": "floor_number",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Étage du bien",
+                    "value_label": "1",
+                    "generic": true
+                },
+                {
+                    "key": "nb_floors_building",
+                    "value": "3",
+                    "values": [
+                        "3"
+                    ],
+                    "key_label": "Nombre d'étages de l'immeuble",
+                    "value_label": "3",
+                    "generic": true
+                },
+                {
+                    "key": "district_id",
+                    "value": "3000280",
+                    "values": [
+                        "3000280"
+                    ],
+                    "value_label": "3000280",
+                    "generic": false
+                },
+                {
+                    "key": "district_visibility",
+                    "value": "true",
+                    "values": [
+                        "true"
+                    ],
+                    "value_label": "true",
+                    "generic": false
+                },
+                {
+                    "key": "district_type_id",
+                    "value": "9",
+                    "values": [
+                        "9"
+                    ],
+                    "value_label": "9",
+                    "generic": false
+                },
+                {
+                    "key": "district_resolution_type",
+                    "value": "integration",
+                    "values": [
+                        "integration"
+                    ],
+                    "value_label": "integration",
+                    "generic": false
+                },
+                {
+                    "key": "custom_ref",
+                    "value": "solfe",
+                    "values": [
+                        "solfe"
+                    ],
+                    "key_label": "Référence",
+                    "value_label": "solfe",
+                    "generic": true
+                },
+                {
+                    "key": "immo_sell_type",
+                    "value": "old",
+                    "values": [
+                        "old"
+                    ],
+                    "value_label": "old",
+                    "generic": false
+                },
+                {
+                    "key": "is_import",
+                    "value": "false",
+                    "values": [
+                        "false"
+                    ],
+                    "value_label": "false",
+                    "generic": false
+                },
+                {
+                    "key": "lease_type",
+                    "value": "sell",
+                    "values": [
+                        "sell"
+                    ],
+                    "value_label": "sell",
+                    "generic": false
+                },
+                {
+                    "key": "old_price",
+                    "value": "500000",
+                    "values": [
+                        "500000"
+                    ],
+                    "value_label": "500000",
+                    "generic": false
+                }
+            ],
+            "body": "Au 196 rue solférino.\n\nBel appartement en duplex de 158m² loi carrez et 161 au sol. \nAu 1er étage: belle cuisine de 17m² et grand salon/séjour de 58m². Chambre avec salle de bain ou bureau.\nA l'étage: 3 chambres et 2 salle de bains.\n\nPas de travaux de copropriété à prévoir. Toiture et communs entièrement remis à neuf.",
+            "category_id": "9",
+            "category_name": "Ventes immobilières",
+            "first_publication_date": "2023-03-28 16:38:14",
+            "has_phone": true,
+            "images": {
+                "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/f9/6b/16/f96b16a0c06fe30d7e4a35b7edc7f792e2e77621.jpg?rule=ad-thumb",
+                "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/f9/6b/16/f96b16a0c06fe30d7e4a35b7edc7f792e2e77621.jpg?rule=ad-small",
+                "nb_images": 5,
+                "urls": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/f9/6b/16/f96b16a0c06fe30d7e4a35b7edc7f792e2e77621.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/c7/d0/5cc7d04d838943d93c03256e1ba6f1d8e64fdfe9.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/96/36/d6/9636d6f1f1cf73af831595c6c609dcb2d400d15f.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/1c/d0/b41cd02ab12bd0ce3c0609e18dc512d6234796bb.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/55/ee/b0/55eeb0e2e32e5b9bfda7191b7bc71c061dc39427.jpg?rule=ad-image"
+                ],
+                "urls_thumb": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/f9/6b/16/f96b16a0c06fe30d7e4a35b7edc7f792e2e77621.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/c7/d0/5cc7d04d838943d93c03256e1ba6f1d8e64fdfe9.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/96/36/d6/9636d6f1f1cf73af831595c6c609dcb2d400d15f.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/1c/d0/b41cd02ab12bd0ce3c0609e18dc512d6234796bb.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/55/ee/b0/55eeb0e2e32e5b9bfda7191b7bc71c061dc39427.jpg?rule=ad-thumb"
+                ],
+                "urls_large": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/f9/6b/16/f96b16a0c06fe30d7e4a35b7edc7f792e2e77621.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/c7/d0/5cc7d04d838943d93c03256e1ba6f1d8e64fdfe9.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/96/36/d6/9636d6f1f1cf73af831595c6c609dcb2d400d15f.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/1c/d0/b41cd02ab12bd0ce3c0609e18dc512d6234796bb.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/55/ee/b0/55eeb0e2e32e5b9bfda7191b7bc71c061dc39427.jpg?rule=ad-large"
+                ]
+            },
+            "index_date": "2023-05-02 17:13:30",
+            "list_id": 2323833089,
+            "location": {
+                "country_id": "FR",
+                "region_id": "17",
+                "region_name": "Nord-Pas-de-Calais",
+                "department_id": "59",
+                "department_name": "Nord",
+                "city_label": "Lille 59000 Wazemmes",
+                "city": "Lille",
+                "zipcode": "59000",
+                "lat": 50.62992,
+                "lng": 3.05697,
+                "source": "address",
+                "provider": "here",
+                "is_shape": false,
+                "feature": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.05697,
+                            50.62992
+                        ]
+                    },
+                    "properties": null
+                }
+            },
+            "options": {
+                "has_option": false,
+                "booster": false,
+                "photosup": false,
+                "urgent": false,
+                "gallery": false,
+                "sub_toplist": false
+            },
+            "owner": {
+                "store_id": "37091724",
+                "user_id": "15978059-e3ce-49cf-be30-10a1256f5c95",
+                "type": "pro",
+                "name": "invefimmo",
+                "siren": "753134279",
+                "no_salesmen": true,
+                "activity_sector": "2"
+            },
+            "price": [
+                490000
+            ],
+            "price_cents": 49000000,
+            "price_calendar": null,
+            "status": "active",
+            "subject": "Appartement solferino",
+            "url": "https://www.leboncoin.fr/ventes_immobilieres/2323833089.htm"
+        },
+        {
+            "ad_type": "offer",
+            "attributes": [
+                {
+                    "key": "profile_picture_url",
+                    "value": "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/95f5e767-9a8a-519d-bad9-91832eb7290f?rule=pp-small",
+                    "values": [
+                        "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/95f5e767-9a8a-519d-bad9-91832eb7290f?rule=pp-small"
+                    ],
+                    "value_label": "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/95f5e767-9a8a-519d-bad9-91832eb7290f?rule=pp-small",
+                    "generic": false
+                },
+                {
+                    "key": "real_estate_type",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Type de bien",
+                    "value_label": "Appartement",
+                    "generic": true
+                },
+                {
+                    "key": "furnished",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Meublé / Non meublé",
+                    "value_label": "Non meublé",
+                    "generic": true
+                },
+                {
+                    "key": "square",
+                    "value": "48",
+                    "values": [
+                        "48"
+                    ],
+                    "key_label": "Surface",
+                    "value_label": "48 m²",
+                    "generic": true
+                },
+                {
+                    "key": "rooms",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Pièces",
+                    "value_label": "2",
+                    "generic": true
+                },
+                {
+                    "key": "energy_rate",
+                    "value": "d",
+                    "values": [
+                        "d"
+                    ],
+                    "key_label": "Classe énergie",
+                    "value_label": "D",
+                    "generic": true
+                },
+                {
+                    "key": "ges",
+                    "value": "b",
+                    "values": [
+                        "b"
+                    ],
+                    "key_label": "GES",
+                    "value_label": "B",
+                    "generic": true
+                },
+                {
+                    "key": "floor_number",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Étage du bien",
+                    "value_label": "1",
+                    "generic": true
+                },
+                {
+                    "key": "nb_floors_building",
+                    "value": "6",
+                    "values": [
+                        "6"
+                    ],
+                    "key_label": "Nombre d'étages de l'immeuble",
+                    "value_label": "6",
+                    "generic": true
+                },
+                {
+                    "key": "nb_parkings",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Places de parking",
+                    "value_label": "1",
+                    "generic": true
+                },
+                {
+                    "key": "charges_included",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Charges comprises",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "district_id",
+                    "value": "3000274",
+                    "values": [
+                        "3000274"
+                    ],
+                    "value_label": "3000274",
+                    "generic": false
+                },
+                {
+                    "key": "district_visibility",
+                    "value": "true",
+                    "values": [
+                        "true"
+                    ],
+                    "value_label": "true",
+                    "generic": false
+                },
+                {
+                    "key": "district_type_id",
+                    "value": "9",
+                    "values": [
+                        "9"
+                    ],
+                    "value_label": "9",
+                    "generic": false
+                },
+                {
+                    "key": "district_resolution_type",
+                    "value": "integration",
+                    "values": [
+                        "integration"
+                    ],
+                    "value_label": "integration",
+                    "generic": false
+                },
+                {
+                    "key": "is_import",
+                    "value": "false",
+                    "values": [
+                        "false"
+                    ],
+                    "value_label": "false",
+                    "generic": false
+                },
+                {
+                    "key": "lease_type",
+                    "value": "rent",
+                    "values": [
+                        "rent"
+                    ],
+                    "value_label": "rent",
+                    "generic": false
+                },
+                {
+                    "key": "old_price",
+                    "value": "790",
+                    "values": [
+                        "790"
+                    ],
+                    "value_label": "790",
+                    "generic": false
+                }
+            ],
+            "body": "T2  233 RUE NATIONALE LILLE 1ER ETAGE ENTREE SEJOUR ( 21M2 ) CHAMBRE (12M2) CUISINE (FOUR TABLE DE CUISSON) SALLE DE BAIN (BAIGNOIRE) BALCON (9M2)\nPARKING ET CAVE\nRADIATEURS ELECTRIQUES. ET CE ELECTRIQUE (100 L)\nCONSOMATION ELEC ANNUELLE 237 KW/H LABEL E\nZONE SOUMISE A ENCADREMENT DE LOYER",
+            "category_id": "10",
+            "category_name": "Locations",
+            "first_publication_date": "2023-05-01 07:53:53",
+            "has_phone": true,
+            "images": {
+                "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/a2/b7/56/a2b756e82efa553f182c2f0c6c2fe387d7c84c13.jpg?rule=ad-thumb",
+                "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/a2/b7/56/a2b756e82efa553f182c2f0c6c2fe387d7c84c13.jpg?rule=ad-small",
+                "nb_images": 4,
+                "urls": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/a2/b7/56/a2b756e82efa553f182c2f0c6c2fe387d7c84c13.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/e7/58/f9/e758f98838f92d6235515f45c9010148d00a733e.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/64/7a/ad/647aad1eb9bfd464cc5729ce35fc2eba39270b19.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/9d/d9/03/9dd903663295f222dc23ac86015781d3561daef5.jpg?rule=ad-image"
+                ],
+                "urls_thumb": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/a2/b7/56/a2b756e82efa553f182c2f0c6c2fe387d7c84c13.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/e7/58/f9/e758f98838f92d6235515f45c9010148d00a733e.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/64/7a/ad/647aad1eb9bfd464cc5729ce35fc2eba39270b19.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/9d/d9/03/9dd903663295f222dc23ac86015781d3561daef5.jpg?rule=ad-thumb"
+                ],
+                "urls_large": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/a2/b7/56/a2b756e82efa553f182c2f0c6c2fe387d7c84c13.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/e7/58/f9/e758f98838f92d6235515f45c9010148d00a733e.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/64/7a/ad/647aad1eb9bfd464cc5729ce35fc2eba39270b19.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/9d/d9/03/9dd903663295f222dc23ac86015781d3561daef5.jpg?rule=ad-large"
+                ]
+            },
+            "index_date": "2023-05-02 08:02:29",
+            "list_id": 2306199350,
+            "location": {
+                "country_id": "FR",
+                "region_id": "17",
+                "region_name": "Nord-Pas-de-Calais",
+                "department_id": "59",
+                "department_name": "Nord",
+                "city_label": "Lille 59800 Wazemmes",
+                "city": "Lille",
+                "zipcode": "59800",
+                "lat": 50.63105,
+                "lng": 3.04879,
+                "source": "address",
+                "provider": "here",
+                "is_shape": false,
+                "feature": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.04879,
+                            50.63105
+                        ]
+                    },
+                    "properties": null
+                }
+            },
+            "options": {
+                "has_option": true,
+                "booster": false,
+                "photosup": false,
+                "urgent": true,
+                "gallery": true,
+                "sub_toplist": true
+            },
+            "owner": {
+                "store_id": "50310906",
+                "user_id": "4d971e3c-1f74-4140-ab64-80cc45ac0ed7",
+                "type": "private",
+                "name": "marc",
+                "no_salesmen": true,
+                "activity_sector": ""
+            },
+            "price": [
+                770
+            ],
+            "price_cents": 77000,
+            "price_calendar": null,
+            "status": "active",
+            "subject": "Appartement louer",
+            "url": "https://www.leboncoin.fr/locations/2306199350.htm"
+        },
+        {
+            "ad_type": "offer",
+            "attributes": [
+                {
+                    "key": "activity_sector",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "value_label": "2",
+                    "generic": false
+                },
+                {
+                    "key": "real_estate_type",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Type de bien",
+                    "value_label": "Appartement",
+                    "generic": true
+                },
+                {
+                    "key": "square",
+                    "value": "51",
+                    "values": [
+                        "51"
+                    ],
+                    "key_label": "Surface",
+                    "value_label": "51 m²",
+                    "generic": true
+                },
+                {
+                    "key": "rooms",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Pièces",
+                    "value_label": "2",
+                    "generic": true
+                },
+                {
+                    "key": "energy_rate",
+                    "value": "d",
+                    "values": [
+                        "d"
+                    ],
+                    "key_label": "Classe énergie",
+                    "value_label": "D",
+                    "generic": true
+                },
+                {
+                    "key": "ges",
+                    "value": "d",
+                    "values": [
+                        "d"
+                    ],
+                    "key_label": "GES",
+                    "value_label": "D",
+                    "generic": true
+                },
+                {
+                    "key": "elevator",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Ascenseur",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "fai_included",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Honoraires",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "pro_rates_link",
+                    "value": "https://www.mondaineimmobilier.fr/honoraires",
+                    "values": [
+                        "https://www.mondaineimmobilier.fr/honoraires"
+                    ],
+                    "value_label": "https://www.mondaineimmobilier.fr/honoraires",
+                    "generic": false
+                },
+                {
+                    "key": "floor_number",
+                    "value": "5",
+                    "values": [
+                        "5"
+                    ],
+                    "key_label": "Étage du bien",
+                    "value_label": "5",
+                    "generic": true
+                },
+                {
+                    "key": "nb_floors_building",
+                    "value": "7",
+                    "values": [
+                        "7"
+                    ],
+                    "key_label": "Nombre d'étages de l'immeuble",
+                    "value_label": "7",
+                    "generic": true
+                },
+                {
+                    "key": "district_id",
+                    "value": "102941",
+                    "values": [
+                        "102941"
+                    ],
+                    "value_label": "102941",
+                    "generic": false
+                },
+                {
+                    "key": "district_visibility",
+                    "value": "true",
+                    "values": [
+                        "true"
+                    ],
+                    "value_label": "true",
+                    "generic": false
+                },
+                {
+                    "key": "district_type_id",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "value_label": "1",
+                    "generic": false
+                },
+                {
+                    "key": "district_resolution_type",
+                    "value": "integration",
+                    "values": [
+                        "integration"
+                    ],
+                    "value_label": "integration",
+                    "generic": false
+                },
+                {
+                    "key": "immo_sell_type",
+                    "value": "old",
+                    "values": [
+                        "old"
+                    ],
+                    "value_label": "old",
+                    "generic": false
+                },
+                {
+                    "key": "is_import",
+                    "value": "false",
+                    "values": [
+                        "false"
+                    ],
+                    "value_label": "false",
+                    "generic": false
+                },
+                {
+                    "key": "lease_type",
+                    "value": "sell",
+                    "values": [
+                        "sell"
+                    ],
+                    "value_label": "sell",
+                    "generic": false
+                }
+            ],
+            "body": "Appartement type 2 lumineux au pied du tramway ACACIAS à quelques minutes à pied du Croisé Laroche. \n\nL’appartement est composé d’une entrée qui dessert une salle de bain, un wc séparé et l’accès au salon / salle à manger et cuisine équipée ouverte. \n\nOn retrouve une chambre avec rangements intégrés. \n\nUne cave complète ce bien. \n\nSurface : 50,57 m²\nPrix du bien : 170 000 €\nPrix du bien hors honoraires : 160 000 €\nHonoraires TTC : 10 000 €, soit 5,88 %\n\nBien soumis à la copropriété : 150 lots\nStatut provisoire du syndicat : Pas de procédure en cours\nCharges de copropriété : 150€/mois tout compris\nDate de réalisation du diagnostic énergétique : 19/04/2022\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 589 € et 797 € par an\n\nPrix moyens des énergies indexés sur l'année 2021 (abonnements compris)\n\nDPE : 205kwh/m2/an (D)\nGES : 44kgCO2/m2/an \n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+            "category_id": "9",
+            "category_name": "Ventes immobilières",
+            "first_publication_date": "2023-03-27 15:38:38",
+            "has_phone": true,
+            "images": {
+                "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/14/8b/b9/148bb962e293f454bfa6049892f2c71ba69a0c33.jpg?rule=ad-thumb",
+                "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/14/8b/b9/148bb962e293f454bfa6049892f2c71ba69a0c33.jpg?rule=ad-small",
+                "nb_images": 4,
+                "urls": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/14/8b/b9/148bb962e293f454bfa6049892f2c71ba69a0c33.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/00/fd/1600fdfe657b403ea4e983780e2124b9a139401e.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/3f/23/28/3f2328bd6a5a23564a4723151a81040894ecdb82.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/4a/48/7d/4a487d89da4363fd8bb403e1e50bbc460346d87d.jpg?rule=ad-image"
+                ],
+                "urls_thumb": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/14/8b/b9/148bb962e293f454bfa6049892f2c71ba69a0c33.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/00/fd/1600fdfe657b403ea4e983780e2124b9a139401e.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/3f/23/28/3f2328bd6a5a23564a4723151a81040894ecdb82.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/4a/48/7d/4a487d89da4363fd8bb403e1e50bbc460346d87d.jpg?rule=ad-thumb"
+                ],
+                "urls_large": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/14/8b/b9/148bb962e293f454bfa6049892f2c71ba69a0c33.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/00/fd/1600fdfe657b403ea4e983780e2124b9a139401e.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/3f/23/28/3f2328bd6a5a23564a4723151a81040894ecdb82.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/4a/48/7d/4a487d89da4363fd8bb403e1e50bbc460346d87d.jpg?rule=ad-large"
+                ]
+            },
+            "index_date": "2023-05-02 09:40:09",
+            "list_id": 2323286208,
+            "location": {
+                "country_id": "FR",
+                "region_id": "17",
+                "region_name": "Nord-Pas-de-Calais",
+                "department_id": "59",
+                "department_name": "Nord",
+                "city_label": "Marcq-en-Baroeul 59700",
+                "city": "Marcq-en-Baroeul",
+                "zipcode": "59700",
+                "lat": 50.674,
+                "lng": 3.0942,
+                "source": "city",
+                "provider": "here",
+                "is_shape": true,
+                "feature": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.0942,
+                            50.674
+                        ]
+                    },
+                    "properties": null
+                }
+            },
+            "options": {
+                "has_option": false,
+                "booster": false,
+                "photosup": false,
+                "urgent": false,
+                "gallery": false,
+                "sub_toplist": false
+            },
+            "owner": {
+                "store_id": "64061483",
+                "user_id": "94e700cc-447b-4408-99df-78c96ccbab67",
+                "type": "pro",
+                "name": "MONDAINE IMMOBILIER",
+                "siren": "893389320",
+                "pro_rates_link": "https://www.mondaineimmobilier.fr/honoraires",
+                "no_salesmen": true,
+                "activity_sector": "2"
+            },
+            "price": [
+                170000
+            ],
+            "price_cents": 17000000,
+            "price_calendar": null,
+            "status": "active",
+            "subject": "Appartement type 2",
+            "url": "https://www.leboncoin.fr/ventes_immobilieres/2323286208.htm"
+        },
+        {
+            "ad_type": "offer",
+            "attributes": [
+                {
+                    "key": "activity_sector",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "value_label": "2",
+                    "generic": false
+                },
+                {
+                    "key": "type_real_estate_sale",
+                    "value": "ancien",
+                    "values": [
+                        "ancien"
+                    ],
+                    "key_label": "Type de vente",
+                    "value_label": "Ancien",
+                    "generic": true
+                },
+                {
+                    "key": "real_estate_type",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Type de bien",
+                    "value_label": "Appartement",
+                    "generic": true
+                },
+                {
+                    "key": "square",
+                    "value": "57",
+                    "values": [
+                        "57"
+                    ],
+                    "key_label": "Surface",
+                    "value_label": "57 m²",
+                    "generic": true
+                },
+                {
+                    "key": "rooms",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Pièces",
+                    "value_label": "2",
+                    "generic": true
+                },
+                {
+                    "key": "energy_rate",
+                    "value": "d",
+                    "values": [
+                        "d"
+                    ],
+                    "key_label": "Classe énergie",
+                    "value_label": "D",
+                    "generic": true
+                },
+                {
+                    "key": "ges",
+                    "value": "d",
+                    "values": [
+                        "d"
+                    ],
+                    "key_label": "GES",
+                    "value_label": "D",
+                    "generic": true
+                },
+                {
+                    "key": "elevator",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Ascenseur",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "fai_included",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Honoraires",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "floor_number",
+                    "value": "9",
+                    "values": [
+                        "9"
+                    ],
+                    "key_label": "Étage du bien",
+                    "value_label": "9",
+                    "generic": true
+                },
+                {
+                    "key": "nb_floors_building",
+                    "value": "15",
+                    "values": [
+                        "15"
+                    ],
+                    "key_label": "Nombre d'étages de l'immeuble",
+                    "value_label": "15",
+                    "generic": true
+                },
+                {
+                    "key": "outside_access",
+                    "value": "",
+                    "values": [
+                        "balcony"
+                    ],
+                    "key_label": "Extérieur",
+                    "value_label": "Balcon",
+                    "values_label": [
+                        "Balcon"
+                    ],
+                    "generic": true
+                },
+                {
+                    "key": "district_id",
+                    "value": "3000301",
+                    "values": [
+                        "3000301"
+                    ],
+                    "value_label": "3000301",
+                    "generic": false
+                },
+                {
+                    "key": "district_visibility",
+                    "value": "true",
+                    "values": [
+                        "true"
+                    ],
+                    "value_label": "true",
+                    "generic": false
+                },
+                {
+                    "key": "district_type_id",
+                    "value": "9",
+                    "values": [
+                        "9"
+                    ],
+                    "value_label": "9",
+                    "generic": false
+                },
+                {
+                    "key": "district_resolution_type",
+                    "value": "integration",
+                    "values": [
+                        "integration"
+                    ],
+                    "value_label": "integration",
+                    "generic": false
+                },
+                {
+                    "key": "custom_ref",
+                    "value": "91BIZET",
+                    "values": [
+                        "91BIZET"
+                    ],
+                    "key_label": "Référence",
+                    "value_label": "91BIZET",
+                    "generic": true
+                },
+                {
+                    "key": "immo_sell_type",
+                    "value": "old",
+                    "values": [
+                        "old"
+                    ],
+                    "value_label": "old",
+                    "generic": false
+                },
+                {
+                    "key": "is_import",
+                    "value": "false",
+                    "values": [
+                        "false"
+                    ],
+                    "value_label": "false",
+                    "generic": false
+                },
+                {
+                    "key": "lease_type",
+                    "value": "sell",
+                    "values": [
+                        "sell"
+                    ],
+                    "value_label": "sell",
+                    "generic": false
+                }
+            ],
+            "body": "91 BIZET – Rue Pierre De Geyter Lomme\n\nVENTE EN RESIDENCE PRINCIPALE UNIQUEMENT\n\nAppartement à vendre sur la commune de Lomme en plein centre-ville.\nRésidence calme et sécurisée avec ascenseur.\n\nLe logement se compose : entrée avec rangement, beau salon/séjour très lumineux de 25m² donnant sur le balcon avec vue, Cuisine séparée. Belle chambre de 11m², salle d’eau, WC séparés.\nPossibilité de créer une deuxième chambre ou un bureau dans le séjour.\nStationnement libre devant la résidence.\n\nEstimation des charges de copropriété: 118€/mois (chauffage, eau froide, entretien des parties communes) – 61 lots\n\n* Au prix de 92500 €*(hors frais de notaire)\nPas de frais d’agence.\n\nVente en priorité aux locataires des bailleurs sociaux de département ainsi qu’aux gardiens d’immeubles qu’ils emploient, sous plafond de ressources, jusqu’au 18/05/2023.\n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques: www.georisques.gouv.fr",
+            "category_id": "9",
+            "category_name": "Ventes immobilières",
+            "first_publication_date": "2023-04-18 09:34:23",
+            "has_phone": false,
+            "images": {
+                "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/93/8f/7b938fc8d9673a9eaca88b3654115f7313e9cd6f.jpg?rule=ad-thumb",
+                "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/93/8f/7b938fc8d9673a9eaca88b3654115f7313e9cd6f.jpg?rule=ad-small",
+                "nb_images": 6,
+                "urls": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/93/8f/7b938fc8d9673a9eaca88b3654115f7313e9cd6f.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/78/7b/f0/787bf0f7f519b7228aeb9396718b499b6459cd9b.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/4b/f0/4b4bf0f7ded8f5426317a9486ef592a1234994e8.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/c8/95/06/c8950691774d33f3f599f843005cfbb5d5f338c1.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/6d/6f/d9/6d6fd99746e1a63342992e9c7050493232f5ee47.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/92/79/b49279e1b6f33e8f084376d9f2dafd68b6e462bf.jpg?rule=ad-image"
+                ],
+                "urls_thumb": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/93/8f/7b938fc8d9673a9eaca88b3654115f7313e9cd6f.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/78/7b/f0/787bf0f7f519b7228aeb9396718b499b6459cd9b.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/4b/f0/4b4bf0f7ded8f5426317a9486ef592a1234994e8.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/c8/95/06/c8950691774d33f3f599f843005cfbb5d5f338c1.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/6d/6f/d9/6d6fd99746e1a63342992e9c7050493232f5ee47.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/92/79/b49279e1b6f33e8f084376d9f2dafd68b6e462bf.jpg?rule=ad-thumb"
+                ],
+                "urls_large": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7b/93/8f/7b938fc8d9673a9eaca88b3654115f7313e9cd6f.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/78/7b/f0/787bf0f7f519b7228aeb9396718b499b6459cd9b.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/4b/f0/4b4bf0f7ded8f5426317a9486ef592a1234994e8.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/c8/95/06/c8950691774d33f3f599f843005cfbb5d5f338c1.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/6d/6f/d9/6d6fd99746e1a63342992e9c7050493232f5ee47.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/92/79/b49279e1b6f33e8f084376d9f2dafd68b6e462bf.jpg?rule=ad-large"
+                ]
+            },
+            "index_date": "2023-05-02 09:34:24",
+            "list_id": 2334614921,
+            "location": {
+                "country_id": "FR",
+                "region_id": "17",
+                "region_name": "Nord-Pas-de-Calais",
+                "department_id": "59",
+                "department_name": "Nord",
+                "city_label": "Lille 59160 Lomme",
+                "city": "Lille",
+                "zipcode": "59160",
+                "lat": 50.63903,
+                "lng": 3.01243,
+                "source": "city",
+                "provider": "here",
+                "is_shape": true,
+                "feature": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.01243,
+                            50.63903
+                        ]
+                    },
+                    "properties": null
+                }
+            },
+            "options": {
+                "has_option": true,
+                "booster": false,
+                "photosup": true,
+                "urgent": false,
+                "gallery": false,
+                "sub_toplist": true
+            },
+            "owner": {
+                "store_id": "26461009",
+                "user_id": "36a156b3-4b68-435c-be74-2d678b346d2e",
+                "type": "pro",
+                "name": "partenordhabitat",
+                "siren": "378072144",
+                "no_salesmen": true,
+                "activity_sector": "2"
+            },
+            "price": [
+                92500
+            ],
+            "price_cents": 9250000,
+            "price_calendar": null,
+            "status": "active",
+            "subject": "Appartement T2 Lomme",
+            "url": "https://www.leboncoin.fr/ventes_immobilieres/2334614921.htm"
+        },
+        {
+            "ad_type": "offer",
+            "attributes": [
+                {
+                    "key": "activity_sector",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "value_label": "2",
+                    "generic": false
+                },
+                {
+                    "key": "type_real_estate_sale",
+                    "value": "ancien",
+                    "values": [
+                        "ancien"
+                    ],
+                    "key_label": "Type de vente",
+                    "value_label": "Ancien",
+                    "generic": true
+                },
+                {
+                    "key": "real_estate_type",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Type de bien",
+                    "value_label": "Appartement",
+                    "generic": true
+                },
+                {
+                    "key": "square",
+                    "value": "49",
+                    "values": [
+                        "49"
+                    ],
+                    "key_label": "Surface",
+                    "value_label": "49 m²",
+                    "generic": true
+                },
+                {
+                    "key": "rooms",
+                    "value": "3",
+                    "values": [
+                        "3"
+                    ],
+                    "key_label": "Pièces",
+                    "value_label": "3",
+                    "generic": true
+                },
+                {
+                    "key": "energy_rate",
+                    "value": "e",
+                    "values": [
+                        "e"
+                    ],
+                    "key_label": "Classe énergie",
+                    "value_label": "E",
+                    "generic": true
+                },
+                {
+                    "key": "ges",
+                    "value": "b",
+                    "values": [
+                        "b"
+                    ],
+                    "key_label": "GES",
+                    "value_label": "B",
+                    "generic": true
+                },
+                {
+                    "key": "fai_included",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Honoraires",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "floor_number",
+                    "value": "0",
+                    "values": [
+                        "0"
+                    ],
+                    "key_label": "Étage du bien",
+                    "value_label": "0",
+                    "generic": true
+                },
+                {
+                    "key": "nb_floors_building",
+                    "value": "4",
+                    "values": [
+                        "4"
+                    ],
+                    "key_label": "Nombre d'étages de l'immeuble",
+                    "value_label": "4",
+                    "generic": true
+                },
+                {
+                    "key": "district_id",
+                    "value": "3000290",
+                    "values": [
+                        "3000290"
+                    ],
+                    "value_label": "3000290",
+                    "generic": false
+                },
+                {
+                    "key": "district_visibility",
+                    "value": "true",
+                    "values": [
+                        "true"
+                    ],
+                    "value_label": "true",
+                    "generic": false
+                },
+                {
+                    "key": "district_type_id",
+                    "value": "9",
+                    "values": [
+                        "9"
+                    ],
+                    "value_label": "9",
+                    "generic": false
+                },
+                {
+                    "key": "district_resolution_type",
+                    "value": "integration",
+                    "values": [
+                        "integration"
+                    ],
+                    "value_label": "integration",
+                    "generic": false
+                },
+                {
+                    "key": "immo_sell_type",
+                    "value": "old",
+                    "values": [
+                        "old"
+                    ],
+                    "value_label": "old",
+                    "generic": false
+                },
+                {
+                    "key": "is_import",
+                    "value": "false",
+                    "values": [
+                        "false"
+                    ],
+                    "value_label": "false",
+                    "generic": false
+                },
+                {
+                    "key": "lease_type",
+                    "value": "sell",
+                    "values": [
+                        "sell"
+                    ],
+                    "value_label": "sell",
+                    "generic": false
+                }
+            ],
+            "body": "J'ai le plaisir de vous présenter cet appartement comprenant un séjour spacieux et lumineux, une cuisine semi-ouverte, une salle de bain, une chambre et une chambre aveugle pouvant servir également de bureau, à proximité des commerces et des transports en commun.\n\nCet appartement se trouve à Lille, au rez-de-chaussée d'un immeuble ancien situé rue Montesquieu et offre une superficie de 49 mètres carrés. Il est idéal pour un investisseur.\n\nLa salle de bain est équipée d'une baignoire et d'un emplacement pour une machine à laver.\n\nL'appartement est actuellement loué 500 € + 60 € de charges.\n\nPrix de vente HAI : 147 000,00 €\nHonoraires à la charge du vendeur\n\nNe tardez pas à me contacter pour plus d'informations et pour visiter !\n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+            "category_id": "9",
+            "category_name": "Ventes immobilières",
+            "first_publication_date": "2023-04-14 17:07:42",
+            "has_phone": true,
+            "images": {
+                "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/6d/bc/fb6dbc0319a06ba4a0c3bfc74f183cb35001d453.jpg?rule=ad-thumb",
+                "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/6d/bc/fb6dbc0319a06ba4a0c3bfc74f183cb35001d453.jpg?rule=ad-small",
+                "nb_images": 5,
+                "urls": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/6d/bc/fb6dbc0319a06ba4a0c3bfc74f183cb35001d453.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7d/d7/57/7dd7573ad7ddbdbf24f5ca4ecf6998f2aa8aaadb.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/c5/c8/c6/c5c8c64c36d779446aab2dc8d9055e7bd6c61b30.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/89/fd/ca89fd3f845147f247f84d3e03cd967a90f99d46.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/37/ed/4d/37ed4dfa3c89cf42aab8147679be184dc635c30a.jpg?rule=ad-image"
+                ],
+                "urls_thumb": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/6d/bc/fb6dbc0319a06ba4a0c3bfc74f183cb35001d453.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7d/d7/57/7dd7573ad7ddbdbf24f5ca4ecf6998f2aa8aaadb.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/c5/c8/c6/c5c8c64c36d779446aab2dc8d9055e7bd6c61b30.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/89/fd/ca89fd3f845147f247f84d3e03cd967a90f99d46.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/37/ed/4d/37ed4dfa3c89cf42aab8147679be184dc635c30a.jpg?rule=ad-thumb"
+                ],
+                "urls_large": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/6d/bc/fb6dbc0319a06ba4a0c3bfc74f183cb35001d453.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7d/d7/57/7dd7573ad7ddbdbf24f5ca4ecf6998f2aa8aaadb.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/c5/c8/c6/c5c8c64c36d779446aab2dc8d9055e7bd6c61b30.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/89/fd/ca89fd3f845147f247f84d3e03cd967a90f99d46.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/37/ed/4d/37ed4dfa3c89cf42aab8147679be184dc635c30a.jpg?rule=ad-large"
+                ]
+            },
+            "index_date": "2023-04-21 17:07:43",
+            "list_id": 2332658464,
+            "location": {
+                "country_id": "FR",
+                "region_id": "17",
+                "region_name": "Nord-Pas-de-Calais",
+                "department_id": "59",
+                "department_name": "Nord",
+                "city_label": "Lille 59000 Moulins",
+                "city": "Lille",
+                "zipcode": "59000",
+                "lat": 50.62127,
+                "lng": 3.07063,
+                "source": "address",
+                "provider": "here",
+                "is_shape": false,
+                "feature": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.07063,
+                            50.62127
+                        ]
+                    },
+                    "properties": null
+                }
+            },
+            "options": {
+                "has_option": false,
+                "booster": false,
+                "photosup": false,
+                "urgent": false,
+                "gallery": false,
+                "sub_toplist": false
+            },
+            "owner": {
+                "store_id": "65689576",
+                "user_id": "c402570d-5cff-4c93-9eb5-51d58df69829",
+                "type": "pro",
+                "name": "Frédéric TISON",
+                "siren": "444945620",
+                "no_salesmen": true,
+                "activity_sector": "2"
+            },
+            "price": [
+                147000
+            ],
+            "price_cents": 14700000,
+            "price_calendar": null,
+            "status": "active",
+            "subject": "Appartement idéal investisseur",
+            "url": "https://www.leboncoin.fr/ventes_immobilieres/2332658464.htm"
+        },
+        {
+            "ad_type": "offer",
+            "attributes": [
+                {
+                    "key": "activity_sector",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "value_label": "2",
+                    "generic": false
+                },
+                {
+                    "key": "type_real_estate_sale",
+                    "value": "ancien",
+                    "values": [
+                        "ancien"
+                    ],
+                    "key_label": "Type de vente",
+                    "value_label": "Ancien",
+                    "generic": true
+                },
+                {
+                    "key": "real_estate_type",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Type de bien",
+                    "value_label": "Appartement",
+                    "generic": true
+                },
+                {
+                    "key": "square",
+                    "value": "68",
+                    "values": [
+                        "68"
+                    ],
+                    "key_label": "Surface",
+                    "value_label": "68 m²",
+                    "generic": true
+                },
+                {
+                    "key": "rooms",
+                    "value": "3",
+                    "values": [
+                        "3"
+                    ],
+                    "key_label": "Pièces",
+                    "value_label": "3",
+                    "generic": true
+                },
+                {
+                    "key": "energy_rate",
+                    "value": "c",
+                    "values": [
+                        "c"
+                    ],
+                    "key_label": "Classe énergie",
+                    "value_label": "C",
+                    "generic": true
+                },
+                {
+                    "key": "ges",
+                    "value": "c",
+                    "values": [
+                        "c"
+                    ],
+                    "key_label": "GES",
+                    "value_label": "C",
+                    "generic": true
+                },
+                {
+                    "key": "elevator",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Ascenseur",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "fai_included",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Honoraires",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "floor_number",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Étage du bien",
+                    "value_label": "2",
+                    "generic": true
+                },
+                {
+                    "key": "nb_floors_building",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Nombre d'étages de l'immeuble",
+                    "value_label": "2",
+                    "generic": true
+                },
+                {
+                    "key": "nb_parkings",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Places de parking",
+                    "value_label": "1",
+                    "generic": true
+                },
+                {
+                    "key": "outside_access",
+                    "value": "",
+                    "values": [
+                        "balcony"
+                    ],
+                    "key_label": "Extérieur",
+                    "value_label": "Balcon",
+                    "values_label": [
+                        "Balcon"
+                    ],
+                    "generic": true
+                },
+                {
+                    "key": "district_id",
+                    "value": "102987",
+                    "values": [
+                        "102987"
+                    ],
+                    "value_label": "102987",
+                    "generic": false
+                },
+                {
+                    "key": "district_visibility",
+                    "value": "true",
+                    "values": [
+                        "true"
+                    ],
+                    "value_label": "true",
+                    "generic": false
+                },
+                {
+                    "key": "district_type_id",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "value_label": "1",
+                    "generic": false
+                },
+                {
+                    "key": "district_resolution_type",
+                    "value": "integration",
+                    "values": [
+                        "integration"
+                    ],
+                    "value_label": "integration",
+                    "generic": false
+                },
+                {
+                    "key": "immo_sell_type",
+                    "value": "old",
+                    "values": [
+                        "old"
+                    ],
+                    "value_label": "old",
+                    "generic": false
+                },
+                {
+                    "key": "is_import",
+                    "value": "false",
+                    "values": [
+                        "false"
+                    ],
+                    "value_label": "false",
+                    "generic": false
+                },
+                {
+                    "key": "lease_type",
+                    "value": "sell",
+                    "values": [
+                        "sell"
+                    ],
+                    "value_label": "sell",
+                    "generic": false
+                }
+            ],
+            "body": "Vous rêvez d'un appartement spacieux et lumineux, à proximité de toutes les commodités ? Ne cherchez plus, vous venez de le trouver !\n\nSitué à Mons-en-Barœul, dans une résidence de 2015, cet appartement de 68 m2 est le bien idéal pour un jeune couple avec ou sans enfant ou pour des personnes âgées.\n\nDès votre entrée, vous serez séduit par le séjour qui s'ouvre sur un coin cuisine fonctionnelle. Vous apprécierez également les deux chambres confortables (18 et 10 m2), parfaites pour se reposer et se ressourcer. La salle de bain, avec sa grande douche, vous permettra de prendre soin de vous, tous les jours. Et grâce à l'emplacement prévu pour une machine à laver, vous pourrez facilement entretenir votre linge.\n\nMais ce n'est pas tout ! Ce bien offre également deux balcons dont un couvert, parfaits pour profiter de l'extérieur et de l'air frais. Et vous serez ravis de disposer d'une cave pour entreposer toutes vos affaires. Enfin, le double parking en sous-sol vous permettra de stationner sans souci.\n\nVous l'aurez compris, cet appartement est un véritable coup de cœur. Proche de toutes les commodités et des transports en commun, il réunit tous les atouts pour vous offrir un confort de vie optimal. Ne ratez pas cette opportunité et contactez-moi dès maintenant pour organiser une visite.\n\nDouble vitrage aluminium avec persiennes\n\nChauffage collectif\n\nCharges : 790 €/trimestre comprenant eua chaude/froide\n\nTaxes foncières : 904 €\n\nRevenus locatif possible : entre 700 ET 750 €/mois hors charges\n\nPrix du bien : 230 000,00 €\nHonoraires à la charge de : vendeur.\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : Entre 550 et 800 € par an. Prix moyens des énergies indexés sur l'année Non communiqué (abonnements compris)",
+            "category_id": "9",
+            "category_name": "Ventes immobilières",
+            "first_publication_date": "2023-04-14 16:48:34",
+            "has_phone": true,
+            "images": {
+                "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/1e/20/bd/1e20bdc56faf5d35a1a04a6f04bfb6fd3d710761.jpg?rule=ad-thumb",
+                "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/1e/20/bd/1e20bdc56faf5d35a1a04a6f04bfb6fd3d710761.jpg?rule=ad-small",
+                "nb_images": 5,
+                "urls": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/1e/20/bd/1e20bdc56faf5d35a1a04a6f04bfb6fd3d710761.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/53/e7/c5/53e7c58fc36fa7d2fc8d78445c5f2bc5c7844ca1.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/4f/98/b74f989070f413872a4ff648d97989f75ff88128.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/fa/ec/99/faec991b7bbc5d9a901e13534e893394b59fba29.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/73/c2/5c73c27d1cb3ca3d63c38438d34b41fe509dca25.jpg?rule=ad-image"
+                ],
+                "urls_thumb": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/1e/20/bd/1e20bdc56faf5d35a1a04a6f04bfb6fd3d710761.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/53/e7/c5/53e7c58fc36fa7d2fc8d78445c5f2bc5c7844ca1.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/4f/98/b74f989070f413872a4ff648d97989f75ff88128.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/fa/ec/99/faec991b7bbc5d9a901e13534e893394b59fba29.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/73/c2/5c73c27d1cb3ca3d63c38438d34b41fe509dca25.jpg?rule=ad-thumb"
+                ],
+                "urls_large": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/1e/20/bd/1e20bdc56faf5d35a1a04a6f04bfb6fd3d710761.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/53/e7/c5/53e7c58fc36fa7d2fc8d78445c5f2bc5c7844ca1.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/4f/98/b74f989070f413872a4ff648d97989f75ff88128.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/fa/ec/99/faec991b7bbc5d9a901e13534e893394b59fba29.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/73/c2/5c73c27d1cb3ca3d63c38438d34b41fe509dca25.jpg?rule=ad-large"
+                ]
+            },
+            "index_date": "2023-04-21 16:59:41",
+            "list_id": 2332646843,
+            "location": {
+                "country_id": "FR",
+                "region_id": "17",
+                "region_name": "Nord-Pas-de-Calais",
+                "department_id": "59",
+                "department_name": "Nord",
+                "city_label": "Mons-en-Baroeul 59370",
+                "city": "Mons-en-Baroeul",
+                "zipcode": "59370",
+                "lat": 50.64603,
+                "lng": 3.11314,
+                "source": "address",
+                "provider": "here",
+                "is_shape": false,
+                "feature": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.11314,
+                            50.64603
+                        ]
+                    },
+                    "properties": null
+                }
+            },
+            "options": {
+                "has_option": false,
+                "booster": false,
+                "photosup": false,
+                "urgent": false,
+                "gallery": false,
+                "sub_toplist": false
+            },
+            "owner": {
+                "store_id": "65689576",
+                "user_id": "c402570d-5cff-4c93-9eb5-51d58df69829",
+                "type": "pro",
+                "name": "Frédéric TISON",
+                "siren": "444945620",
+                "no_salesmen": true,
+                "activity_sector": "2"
+            },
+            "price": [
+                230000
+            ],
+            "price_cents": 23000000,
+            "price_calendar": null,
+            "status": "active",
+            "subject": "Appartement proche commodités",
+            "url": "https://www.leboncoin.fr/ventes_immobilieres/2332646843.htm"
+        },
+        {
+            "ad_type": "offer",
+            "attributes": [
+                {
+                    "key": "profile_picture_url",
+                    "value": "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/8fc67d22-8299-5689-86b8-7345ec024ff8?rule=pp-small",
+                    "values": [
+                        "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/8fc67d22-8299-5689-86b8-7345ec024ff8?rule=pp-small"
+                    ],
+                    "value_label": "https://img.leboncoin.fr/api/v1/tenants/9a6387a1-6259-4f2c-a887-7e67f23dd4cb/domains/20bda58f-d650-462e-a72a-a5a7ecf2bf88/buckets/21d2b0bc-e54c-4b64-a30b-89127b18b785/images/profile/pictures/default/8fc67d22-8299-5689-86b8-7345ec024ff8?rule=pp-small",
+                    "generic": false
+                },
+                {
+                    "key": "real_estate_type",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Type de bien",
+                    "value_label": "Appartement",
+                    "generic": true
+                },
+                {
+                    "key": "furnished",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Meublé / Non meublé",
+                    "value_label": "Non meublé",
+                    "generic": true
+                },
+                {
+                    "key": "square",
+                    "value": "90",
+                    "values": [
+                        "90"
+                    ],
+                    "key_label": "Surface",
+                    "value_label": "90 m²",
+                    "generic": true
+                },
+                {
+                    "key": "rooms",
+                    "value": "4",
+                    "values": [
+                        "4"
+                    ],
+                    "key_label": "Pièces",
+                    "value_label": "4",
+                    "generic": true
+                },
+                {
+                    "key": "energy_rate",
+                    "value": "b",
+                    "values": [
+                        "b"
+                    ],
+                    "key_label": "Classe énergie",
+                    "value_label": "B",
+                    "generic": true
+                },
+                {
+                    "key": "ges",
+                    "value": "b",
+                    "values": [
+                        "b"
+                    ],
+                    "key_label": "GES",
+                    "value_label": "B",
+                    "generic": true
+                },
+                {
+                    "key": "floor_number",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Étage du bien",
+                    "value_label": "1",
+                    "generic": true
+                },
+                {
+                    "key": "nb_floors_building",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Nombre d'étages de l'immeuble",
+                    "value_label": "2",
+                    "generic": true
+                },
+                {
+                    "key": "nb_parkings",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Places de parking",
+                    "value_label": "1",
+                    "generic": true
+                },
+                {
+                    "key": "charges_included",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Charges comprises",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "district_id",
+                    "value": "59339",
+                    "values": [
+                        "59339"
+                    ],
+                    "value_label": "59339",
+                    "generic": false
+                },
+                {
+                    "key": "district_visibility",
+                    "value": "false",
+                    "values": [
+                        "false"
+                    ],
+                    "value_label": "false",
+                    "generic": false
+                },
+                {
+                    "key": "district_type_id",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "value_label": "2",
+                    "generic": false
+                },
+                {
+                    "key": "district_resolution_type",
+                    "value": "integration",
+                    "values": [
+                        "integration"
+                    ],
+                    "value_label": "integration",
+                    "generic": false
+                },
+                {
+                    "key": "is_import",
+                    "value": "false",
+                    "values": [
+                        "false"
+                    ],
+                    "value_label": "false",
+                    "generic": false
+                },
+                {
+                    "key": "lease_type",
+                    "value": "rent",
+                    "values": [
+                        "rent"
+                    ],
+                    "value_label": "rent",
+                    "generic": false
+                }
+            ],
+            "body": "appartement  disponible de suite ,3 chambres spacieuses, situés dans un endroit calme de leers nord (be),zone leers campagne,\nséjour et cuisine ouverte ,salle de bain avec baignoire et douchette,wc indépéndant,une premiere chambre parentale,à létage deux chambres mansardées,le tout est en parquet.systeme de chauffage par pompe à chaleur+cumulus150 l electrique\nconditions:CDI,premier contact par mail,decrivez votre situation ,le nombres de locataire,animaux(genre)\n679 euro\nfrais de dossier 250",
+            "category_id": "10",
+            "category_name": "Locations",
+            "first_publication_date": "2023-04-08 18:11:13",
+            "has_phone": false,
+            "images": {
+                "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/6e/fe/80/6efe806a4a56b47b558d28ae4241730cf6d2c74b.jpg?rule=ad-thumb",
+                "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/6e/fe/80/6efe806a4a56b47b558d28ae4241730cf6d2c74b.jpg?rule=ad-small",
+                "nb_images": 10,
+                "urls": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/6e/fe/80/6efe806a4a56b47b558d28ae4241730cf6d2c74b.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/52/c3/c5/52c3c575b5c2c233f450afc694973003b4e47aea.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/65/69/fc/6569fcc2d1d8ee480105f48d051c0d10b513c073.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/1c/e4/e1/1ce4e1bec8d1d80e5d5345386a2e47ac84dea63c.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ef/be/88/efbe887d9cfe97b7ae4f006c5c84165a43c5b04e.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/9c/c5/ac9cc5a0597b3e11da8b7c81078558a43cf9d3b3.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/00/3c/5b/003c5b7f8a87821800ba81baee90048ea7b4e0c2.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b8/58/c3/b858c39645d3f1c33f5a78dae5ae577d49fad862.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b9/4b/16/b94b16351f04c781d0c9b57707b7795edf20dc12.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/92/4f/4b924f6d6b950db74df1e9e87d4be6bd549dae48.jpg?rule=ad-image"
+                ],
+                "urls_thumb": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/6e/fe/80/6efe806a4a56b47b558d28ae4241730cf6d2c74b.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/52/c3/c5/52c3c575b5c2c233f450afc694973003b4e47aea.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/65/69/fc/6569fcc2d1d8ee480105f48d051c0d10b513c073.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/1c/e4/e1/1ce4e1bec8d1d80e5d5345386a2e47ac84dea63c.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ef/be/88/efbe887d9cfe97b7ae4f006c5c84165a43c5b04e.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/9c/c5/ac9cc5a0597b3e11da8b7c81078558a43cf9d3b3.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/00/3c/5b/003c5b7f8a87821800ba81baee90048ea7b4e0c2.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b8/58/c3/b858c39645d3f1c33f5a78dae5ae577d49fad862.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b9/4b/16/b94b16351f04c781d0c9b57707b7795edf20dc12.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/92/4f/4b924f6d6b950db74df1e9e87d4be6bd549dae48.jpg?rule=ad-thumb"
+                ],
+                "urls_large": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/6e/fe/80/6efe806a4a56b47b558d28ae4241730cf6d2c74b.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/52/c3/c5/52c3c575b5c2c233f450afc694973003b4e47aea.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/65/69/fc/6569fcc2d1d8ee480105f48d051c0d10b513c073.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/1c/e4/e1/1ce4e1bec8d1d80e5d5345386a2e47ac84dea63c.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ef/be/88/efbe887d9cfe97b7ae4f006c5c84165a43c5b04e.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/9c/c5/ac9cc5a0597b3e11da8b7c81078558a43cf9d3b3.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/00/3c/5b/003c5b7f8a87821800ba81baee90048ea7b4e0c2.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b8/58/c3/b858c39645d3f1c33f5a78dae5ae577d49fad862.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b9/4b/16/b94b16351f04c781d0c9b57707b7795edf20dc12.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/92/4f/4b924f6d6b950db74df1e9e87d4be6bd549dae48.jpg?rule=ad-large"
+                ]
+            },
+            "index_date": "2023-04-15 18:13:25",
+            "list_id": 2263139665,
+            "location": {
+                "country_id": "FR",
+                "region_id": "17",
+                "region_name": "Nord-Pas-de-Calais",
+                "department_id": "59",
+                "department_name": "Nord",
+                "city_label": "Leers 59115",
+                "city": "Leers",
+                "zipcode": "59115",
+                "lat": 50.68031,
+                "lng": 3.24117,
+                "source": "city",
+                "provider": "here",
+                "is_shape": true,
+                "feature": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.24117,
+                            50.68031
+                        ]
+                    },
+                    "properties": null
+                }
+            },
+            "options": {
+                "has_option": true,
+                "booster": false,
+                "photosup": true,
+                "urgent": false,
+                "gallery": false,
+                "sub_toplist": false
+            },
+            "owner": {
+                "store_id": "65407991",
+                "user_id": "daab1484-238a-4bf5-9b98-92afa1db2608",
+                "type": "private",
+                "name": "bertrand",
+                "no_salesmen": false,
+                "activity_sector": ""
+            },
+            "price": [
+                679
+            ],
+            "price_cents": 67900,
+            "price_calendar": null,
+            "status": "active",
+            "subject": "Appartement 3chambres leers",
+            "url": "https://www.leboncoin.fr/locations/2263139665.htm"
+        },
+        {
+            "ad_type": "offer",
+            "attributes": [
+                {
+                    "key": "activity_sector",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "value_label": "2",
+                    "generic": false
+                },
+                {
+                    "key": "external_ad_id",
+                    "value": "lbcin_P163206",
+                    "values": [
+                        "lbcin_P163206"
+                    ],
+                    "value_label": "lbcin_P163206",
+                    "generic": false
+                },
+                {
+                    "key": "real_estate_type",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Type de bien",
+                    "value_label": "Appartement",
+                    "generic": true
+                },
+                {
+                    "key": "square",
+                    "value": "82",
+                    "values": [
+                        "82"
+                    ],
+                    "key_label": "Surface",
+                    "value_label": "82 m²",
+                    "generic": true
+                },
+                {
+                    "key": "rooms",
+                    "value": "3",
+                    "values": [
+                        "3"
+                    ],
+                    "key_label": "Pièces",
+                    "value_label": "3",
+                    "generic": true
+                },
+                {
+                    "key": "energy_rate",
+                    "value": "Non renseigné",
+                    "values": [
+                        "Non renseigné"
+                    ],
+                    "key_label": "Classe énergie",
+                    "value_label": "Non renseigné",
+                    "generic": true
+                },
+                {
+                    "key": "ges",
+                    "value": "Non renseigné",
+                    "values": [
+                        "Non renseigné"
+                    ],
+                    "key_label": "GES",
+                    "value_label": "Non renseigné",
+                    "generic": true
+                },
+                {
+                    "key": "district_id",
+                    "value": "102994",
+                    "values": [
+                        "102994"
+                    ],
+                    "value_label": "102994",
+                    "generic": false
+                },
+                {
+                    "key": "district_visibility",
+                    "value": "true",
+                    "values": [
+                        "true"
+                    ],
+                    "value_label": "true",
+                    "generic": false
+                },
+                {
+                    "key": "district_type_id",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "value_label": "1",
+                    "generic": false
+                },
+                {
+                    "key": "district_resolution_type",
+                    "value": "integration",
+                    "values": [
+                        "integration"
+                    ],
+                    "value_label": "integration",
+                    "generic": false
+                },
+                {
+                    "key": "is_preview_program",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "value_label": "2",
+                    "generic": false
+                },
+                {
+                    "key": "adreply_redirect",
+                    "value": "https://api.leboncoin.fr/api/goto/YY5ozV",
+                    "values": [
+                        "https://api.leboncoin.fr/api/goto/YY5ozV"
+                    ],
+                    "value_label": "https://api.leboncoin.fr/api/goto/YY5ozV",
+                    "generic": false
+                },
+                {
+                    "key": "immo_sell_type",
+                    "value": "new",
+                    "values": [
+                        "new"
+                    ],
+                    "value_label": "new",
+                    "generic": false
+                },
+                {
+                    "key": "new_seller_type",
+                    "value": "realestate_promoter",
+                    "values": [
+                        "realestate_promoter"
+                    ],
+                    "value_label": "realestate_promoter",
+                    "generic": false
+                },
+                {
+                    "key": "is_import",
+                    "value": "true",
+                    "values": [
+                        "true"
+                    ],
+                    "value_label": "true",
+                    "generic": false
+                },
+                {
+                    "key": "lease_type",
+                    "value": "sell",
+                    "values": [
+                        "sell"
+                    ],
+                    "value_label": "sell",
+                    "generic": false
+                }
+            ],
+            "body": "ATREO (N° de SIREN : 802812610) | CALLIGRAMME à Lambersart (59130)\nVOTRE ADRESSE DE STANDING AU CŒUR DE LAMBERSART\nLIVRAISON EN 2023. TRAVAUX EN COURS.\n\nDERNIERES OPPORTUNITES - \n\nVous recherchez un appartement proche de tout dans un cadre généreux et propice au bien être ? Les appartement de standing de la résidence CALLIGRAMME combleront vos plus belles ambitions !\nCALLIGRAMME est un projet plein de promesses offrant des appartements fonctionnels et lumineux répondant aux exigences des dernières normes thermiques et acoustiques.\nLa résidence de 2 étages, à l'architecture résolument contemporaine et aux matériaux de qualité, propose uniquement 35 appartements du 2 au 4 pièces, avec balcon, pergola, terrasse et jardin privatif pour les appartements en rez-de-jardin.\nLes parties communes soignées, et le hall d'entrée sont décorés par un architecte d'intérieure.\nChaque propriétaire bénéficie d'un garage en sous-sol avec possibilité d'un stationnement complémentaire selon les appartements.\nDes équipements prévus pour recharger les vélos et véhicules électriques sont à disposition des résidents.\nPour un logement aménagé aux envies de chacun, ATREO propose un large choix de matériaux de grande qualité et étudié avec vous la personnalisation intérieure de votre appartement.\nAppartement éligible au dispositif PINEL.",
+            "category_id": "9",
+            "category_name": "Ventes immobilières",
+            "first_publication_date": "2021-11-17 04:35:04",
+            "has_phone": true,
+            "images": {
+                "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/55/1d/13/551d130e6153b38271480ef6f4c51074a203bf3b.jpg?rule=ad-thumb",
+                "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/55/1d/13/551d130e6153b38271480ef6f4c51074a203bf3b.jpg?rule=ad-small",
+                "nb_images": 4,
+                "urls": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/55/1d/13/551d130e6153b38271480ef6f4c51074a203bf3b.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/57/bb/cb/57bbcb3e01a8939c3c30241f2c9b0da601eeea5c.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7a/82/da/7a82da5ea923330867ebe87edf64da9cc5354b0a.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/28/ef/ac28ef9db4a493d03f5cc16a0520ee8abaa3d6fe.jpg?rule=ad-image"
+                ],
+                "urls_thumb": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/55/1d/13/551d130e6153b38271480ef6f4c51074a203bf3b.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/57/bb/cb/57bbcb3e01a8939c3c30241f2c9b0da601eeea5c.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7a/82/da/7a82da5ea923330867ebe87edf64da9cc5354b0a.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/28/ef/ac28ef9db4a493d03f5cc16a0520ee8abaa3d6fe.jpg?rule=ad-thumb"
+                ],
+                "urls_large": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/55/1d/13/551d130e6153b38271480ef6f4c51074a203bf3b.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/57/bb/cb/57bbcb3e01a8939c3c30241f2c9b0da601eeea5c.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7a/82/da/7a82da5ea923330867ebe87edf64da9cc5354b0a.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/28/ef/ac28ef9db4a493d03f5cc16a0520ee8abaa3d6fe.jpg?rule=ad-large"
+                ]
+            },
+            "index_date": "2023-05-02 12:02:39",
+            "list_id": 2074541337,
+            "location": {
+                "country_id": "FR",
+                "region_id": "17",
+                "region_name": "Nord-Pas-de-Calais",
+                "department_id": "59",
+                "department_name": "Nord",
+                "city_label": "Lambersart 59130",
+                "city": "Lambersart",
+                "zipcode": "59130",
+                "lat": 50.65272,
+                "lng": 3.01198,
+                "source": "city",
+                "provider": "here",
+                "is_shape": false,
+                "feature": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.01198,
+                            50.65272
+                        ]
+                    },
+                    "properties": null
+                }
+            },
+            "options": {
+                "has_option": false,
+                "booster": false,
+                "photosup": false,
+                "urgent": false,
+                "gallery": false,
+                "sub_toplist": false
+            },
+            "owner": {
+                "store_id": "28971941",
+                "user_id": "8505e9d2-8859-4efe-95b8-356316f67e2d",
+                "type": "pro",
+                "name": "ATREO",
+                "siren": "802812610",
+                "no_salesmen": false,
+                "activity_sector": "2"
+            },
+            "price": null,
+            "price_cents": null,
+            "price_calendar": null,
+            "status": "active",
+            "subject": "Appartement - 3 pièces - CALLIGRAMME",
+            "url": "https://www.leboncoin.fr/ventes_immobilieres/2074541337.htm"
+        },
+        {
+            "ad_type": "offer",
+            "attributes": [
+                {
+                    "key": "activity_sector",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "value_label": "2",
+                    "generic": false
+                },
+                {
+                    "key": "real_estate_type",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Type de bien",
+                    "value_label": "Appartement",
+                    "generic": true
+                },
+                {
+                    "key": "square",
+                    "value": "96",
+                    "values": [
+                        "96"
+                    ],
+                    "key_label": "Surface",
+                    "value_label": "96 m²",
+                    "generic": true
+                },
+                {
+                    "key": "rooms",
+                    "value": "4",
+                    "values": [
+                        "4"
+                    ],
+                    "key_label": "Pièces",
+                    "value_label": "4",
+                    "generic": true
+                },
+                {
+                    "key": "energy_rate",
+                    "value": "c",
+                    "values": [
+                        "c"
+                    ],
+                    "key_label": "Classe énergie",
+                    "value_label": "C",
+                    "generic": true
+                },
+                {
+                    "key": "ges",
+                    "value": "c",
+                    "values": [
+                        "c"
+                    ],
+                    "key_label": "GES",
+                    "value_label": "C",
+                    "generic": true
+                },
+                {
+                    "key": "elevator",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Ascenseur",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "fai_included",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "key_label": "Honoraires",
+                    "value_label": "Oui",
+                    "generic": true
+                },
+                {
+                    "key": "floor_number",
+                    "value": "0",
+                    "values": [
+                        "0"
+                    ],
+                    "key_label": "Étage du bien",
+                    "value_label": "0",
+                    "generic": true
+                },
+                {
+                    "key": "nb_floors_building",
+                    "value": "4",
+                    "values": [
+                        "4"
+                    ],
+                    "key_label": "Nombre d'étages de l'immeuble",
+                    "value_label": "4",
+                    "generic": true
+                },
+                {
+                    "key": "nb_parkings",
+                    "value": "2",
+                    "values": [
+                        "2"
+                    ],
+                    "key_label": "Places de parking",
+                    "value_label": "2",
+                    "generic": true
+                },
+                {
+                    "key": "outside_access",
+                    "value": "",
+                    "values": [
+                        "terrace"
+                    ],
+                    "key_label": "Extérieur",
+                    "value_label": "Terrasse",
+                    "values_label": [
+                        "Terrasse"
+                    ],
+                    "generic": true
+                },
+                {
+                    "key": "district_id",
+                    "value": "103058",
+                    "values": [
+                        "103058"
+                    ],
+                    "value_label": "103058",
+                    "generic": false
+                },
+                {
+                    "key": "district_visibility",
+                    "value": "true",
+                    "values": [
+                        "true"
+                    ],
+                    "value_label": "true",
+                    "generic": false
+                },
+                {
+                    "key": "district_type_id",
+                    "value": "1",
+                    "values": [
+                        "1"
+                    ],
+                    "value_label": "1",
+                    "generic": false
+                },
+                {
+                    "key": "district_resolution_type",
+                    "value": "integration",
+                    "values": [
+                        "integration"
+                    ],
+                    "value_label": "integration",
+                    "generic": false
+                },
+                {
+                    "key": "immo_sell_type",
+                    "value": "old",
+                    "values": [
+                        "old"
+                    ],
+                    "value_label": "old",
+                    "generic": false
+                },
+                {
+                    "key": "is_import",
+                    "value": "false",
+                    "values": [
+                        "false"
+                    ],
+                    "value_label": "false",
+                    "generic": false
+                },
+                {
+                    "key": "lease_type",
+                    "value": "sell",
+                    "values": [
+                        "sell"
+                    ],
+                    "value_label": "sell",
+                    "generic": false
+                },
+                {
+                    "key": "old_price",
+                    "value": "300000",
+                    "values": [
+                        "300000"
+                    ],
+                    "value_label": "300000",
+                    "generic": false
+                }
+            ],
+            "body": "Appartement T4 et T3 disponible dans cette résidence sécurisée à 10min à pied de la gare de Tourcoing.\nProche des commerces de proximité.\nStation de métro à proximité: Tourcoing gare\nPossède 2 place de parking en sous-sol et possible de rajouter une cave\nAppartement au RDC avec terrasse et traversant.\nSalle de bain tout équipé\nChauffage au gaz\nVisite possible sur rendez-vous !",
+            "category_id": "9",
+            "category_name": "Ventes immobilières",
+            "first_publication_date": "2023-04-04 16:29:24",
+            "has_phone": true,
+            "images": {
+                "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/7e/65/00/7e6500c187bd471b8211a159fb044af1eb01aa79.jpg?rule=ad-thumb",
+                "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/7e/65/00/7e6500c187bd471b8211a159fb044af1eb01aa79.jpg?rule=ad-small",
+                "nb_images": 2,
+                "urls": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7e/65/00/7e6500c187bd471b8211a159fb044af1eb01aa79.jpg?rule=ad-image",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/d3/67/02/d36702e34de6ae8aa1375820da876f19650fb067.jpg?rule=ad-image"
+                ],
+                "urls_thumb": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7e/65/00/7e6500c187bd471b8211a159fb044af1eb01aa79.jpg?rule=ad-thumb",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/d3/67/02/d36702e34de6ae8aa1375820da876f19650fb067.jpg?rule=ad-thumb"
+                ],
+                "urls_large": [
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/7e/65/00/7e6500c187bd471b8211a159fb044af1eb01aa79.jpg?rule=ad-large",
+                    "https://img.leboncoin.fr/api/v1/lbcpb1/images/d3/67/02/d36702e34de6ae8aa1375820da876f19650fb067.jpg?rule=ad-large"
+                ]
+            },
+            "index_date": "2023-05-02 14:21:46",
+            "list_id": 2327566612,
+            "location": {
+                "country_id": "FR",
+                "region_id": "17",
+                "region_name": "Nord-Pas-de-Calais",
+                "department_id": "59",
+                "department_name": "Nord",
+                "city_label": "Tourcoing 59200",
+                "city": "Tourcoing",
+                "zipcode": "59200",
+                "lat": 50.72023,
+                "lng": 3.17419,
+                "source": "address",
+                "provider": "here",
+                "is_shape": false,
+                "feature": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            3.17419,
+                            50.72023
+                        ]
+                    },
+                    "properties": null
+                }
+            },
+            "options": {
+                "has_option": true,
+                "booster": false,
+                "photosup": false,
+                "urgent": true,
+                "gallery": false,
+                "sub_toplist": false
+            },
+            "owner": {
+                "store_id": "11282717",
+                "user_id": "a304f317-b0a1-4cba-ab2c-7e83eb594304",
+                "type": "pro",
+                "name": "Groupe Edouard Denis",
+                "siren": "477564868",
+                "no_salesmen": true,
+                "activity_sector": "2"
+            },
+            "price": [
+                253200
+            ],
+            "price_cents": 25320000,
+            "price_calendar": null,
+            "status": "active",
+            "subject": "Tourcoing appartement a vendre",
+            "url": "https://www.leboncoin.fr/ventes_immobilieres/2327566612.htm"
+        }
+    ]
+}

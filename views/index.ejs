@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Liste des appartements</title>
+  </head>
+  <body>
+    <h1>Liste des appartements</h1>
+    <h2>SeLoger</h2>
+    <ul>
+      <% data.seloger.items.forEach(function(appartement) { %>
+        <li>
+          <h3><%= appartement.title %></h3>
+          <p><%= appartement.city %></p>
+          <p><%= appartement.zipCode %></p>
+          <p><%= appartement.livingArea %> m²</p>
+          <p><%= appartement.rooms %> pièces</p>
+          <p><%= appartement.level %> étage(s)</p>
+          <p><%= appartement.price %> €</p>
+          <img src="<%= appartement.photos[0] %>"/>
+        </li>
+      <% }); %>
+    </ul>
+    <h2>LeBonCoin</h2>
+    <ul>
+      <% data.leboncoin[8].forEach(function(appartement) { %>
+        <li>
+          <h3><%= appartement.subject %></h3>
+          <p><%= appartement.location.city %></p>
+          <p><%= appartement.location.zipcode %></p>
+          <p><%= appartement.attributes[3].value %> m²</p>
+          <p><%= appartement.attributes[4].value %> pièces</p>
+          <p><%= appartement.attributes[8].value %> étage(s)</p>
+          <p><%= appartement.price %> €</p>
+          <img src="<%= appartement.images.thumb_url %>"/>
+        </li>
+      <% }); %>
+    </ul>
+  </body>
+</html>
